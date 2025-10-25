@@ -1,4 +1,4 @@
-#Medication Email Reminder System
+## Medication Email Reminder System
 
 Simple demo project: Node.js + Express backend that schedules email reminders (using nodemailer + node-cron)
 and a minimal frontend to create reminders.
